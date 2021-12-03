@@ -1,0 +1,14 @@
+.presentimg {
+    display: flex;
+    justify-content: center;
+}
+
+.iconopikachu {
+  width: 40px;
+  height: 40px;
+}
+
+.pokemon {
+  width: 600px;
+  height: 200px;
+}
